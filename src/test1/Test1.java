@@ -17,7 +17,7 @@ public class Test1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Welcome Home Black Jack\n");
-        System.out.println("mr7baaaaaaaaaaaaaa\n");
+        System.out.println("mr7ba\n");
     }
     
 }
